@@ -1,0 +1,16 @@
+{
+    "for" : "pour",
+    "upload_message" : "Veuillez télécharger une image du produit ci-dessous.",
+    "pending_message" : "Votre image a été téléchargée et est en attente d'approbation par notre équipe.",
+    "success_message" : "Votre image a été approuvée et un e-mail avec le code de réduction a été envoyé à votre adresse e-mail.",
+    "error_message" : "Veuillez télécharger l'image de votre produit.",
+    "product_name" : "Nom du produit",
+    "upload_image" : "TÉLÉCHARGER L'IMAGE",
+    "file_accepted" : "Fichier accepté",
+    "feedback_comments" : "RÉTROACTION/COMMENTAIRES",
+    "submit" : "Soumettre",
+    "upload_logs" : "Charger les journaux",
+    "no_logs_found" : "Aucun journal trouvé..",
+
+    "There has been an error.": "Il y a eu une erreur."
+}

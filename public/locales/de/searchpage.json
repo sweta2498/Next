@@ -1,0 +1,24 @@
+{
+  "year": "Fahrzeug-Erstzulassungsjahr",
+  "make": "Fahrzeugmarke",
+  "model": "Fahrzeugmodell",
+  "body": "Fahrzeugkarosserie",
+  "search": "SUCHE",
+  "search_vehicle": "FAHRZEUG SUCHE",
+  "select": "Wählen",
+
+  "loading": "Laden...",
+
+  "back": "Zurück",
+
+  "car-covers": "Autoabdeckungen",
+  "truck-covers": "LKW-Abdeckungen",
+  "van-covers": "Van-Abdeckungen",
+  "suv-covers": "SUV-Abdeckungen",
+  "search_text": "SUCHE",
+  "vehicle": "FAHRZEUG",
+
+  "select_body": "Please Select Body Below",
+
+  "There has been an error.": "Es ist ein Fehler aufgetreten."
+}

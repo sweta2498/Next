@@ -1,0 +1,78 @@
+{
+  "home": "Home",
+  "image": "https://d68my205fyswa.cloudfront.net/ccf-static-5vowu7p8kuts75c2podstmjlw0s0vo5mlgnecl67uvwlv7vfquymjw.png",
+  "email": "Enter email address here to save your cart (optional):",
+  "email2": "Email Address (optional)",
+
+  "Description": "Description",
+  "FAQs": "FAQs",
+  "Warranty": "Warranty",
+  "Shipping": "Shipping",
+  "CustomerReviews": "Customer Reviews",
+  "ProductReviews": "Product Reviews",
+
+  "regular_price": "Regular Price",
+  "you_save": "You Save",
+  "Price": "Price",
+  "view_details": "View details",
+  "addtocart": "Add to cart",
+
+  "order_next": "Order In The Next",
+  "hr": "Hr",
+  "min": "Min & ",
+  "order_delivery": "Get Free Guaranteed Delivery By",
+
+  "QTY": "QTY",
+  "morethanavailable": "More than 100 available",
+
+  "free_Shipping": "free Shipping",
+  "instock": "In Stock",
+  "shipssamebusinessday": "Ships Same Business Day",
+  "guaranteedfit": "Guaranteed Fit",
+
+  "Sunday": "Sunday",
+  "Monday": "Monday",
+  "Tuesday": "Tuesday",
+  "Wednesday": "Wednesday",
+  "Thursday": "Thursday",
+  "Friday": "Friday",
+  "Saturday": "Saturday",
+
+  "January": "January",
+  "February": "February",
+  "March": "March",
+  "April": "April",
+  "May": "May",
+  "June": "June",
+  "July": "July",
+  "August": "August",
+  "September": "September",
+  "October": "October",
+  "November": "November",
+  "December": "December",
+
+  "protects_against": "Protects against",
+  "rain": "RAIN",
+  "uv_sunlight": "UV SUNLIGHT",
+  "mold": "MOLD",
+  "mildew": "MILDEW",
+  "rust": "RUST",
+  "bird_droppings": "BIRD DROPPINGS",
+  "acid_rain": "ACID RAIN",
+  "tree_sap": "TREE SAP",
+  "dust": "DUST",
+  "dirt" : "DIRT",
+  "droppings" : "DROPPINGS",
+
+  "for": "for",
+
+  "shipping_details" : ", we offer FREE standard shipping on all orders. That is our promise to you. We also ship all orders same day as long as they are placed before 5 PM. We have expedited options for those who need their covers quicker. Please allow 24 hours for tracking numbers to be sent to you.",
+  "shipping_details_usa" : "At CarCoversFactory.com, we offer FREE standard shipping on all orders. That is our promise to you. We also ship all orders same day as long as they are placed before 5 PM. We have expedited options such as overnight or 2 day for those who need their covers quicker. Please allow 24 hours for tracking numbers to be sent to you.",
+  "online_sale" : "Online for Sale",
+
+  "Type" : "Type",
+  "Layers" : "Layers",
+  "Material" : "Material",
+
+  "There has been an error.": "There has been an error."
+}

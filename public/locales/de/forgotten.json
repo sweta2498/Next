@@ -1,0 +1,13 @@
+{
+  "home": "Startseite",
+  "account": "Konto",
+  "forgotten_password": "Passwort vergessen",
+  "forgot_Your_password": "Passwort vergessen ?",
+  "forgot_msg": "Bitte die dem Konto zugeordnete E-Mail-Adresse eintragen und mit Klick auf 'Weiter bestätigen. Es wird dann umgehend ein neues Passwort an diese E-Mail-Adresse gesendet.",
+  "your_email_address": "Ihre E-Mail-Adresse",
+  "email": "E-Mail-Adresse",
+  "back": "Zurück",
+  "continue": "Weiter",
+
+  "There has been an error.": "Es ist ein Fehler aufgetreten."
+}

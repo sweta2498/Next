@@ -1,0 +1,52 @@
+.single-wrapper {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.single-wrapper .inner-wrap {
+    background-color: #fff;
+    padding: 20px 20px 50px;
+}
+
+.single-wrapper .inner-wrap .breadcrumb {
+    margin-bottom: 30px;
+}
+
+.single-wrapper .inner-wrap .pricing-page-wrap {
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.single-wrapper .inner-wrap .pricing-page-wrap .pricing-page-inner-wrap {
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+.single-wrapper .inner-wrap .pricing-page-wrap .pricing-page-inner-wrap .table-product-variation tr>td:nth-child(5):not(:first-child) {
+    border-left: 2px solid #3367c6;
+    border-right: 2px solid #3367c6;
+}
+
+.single-wrapper .inner-wrap .pricing-page-wrap .pricing-page-inner-wrap .table-product-variation tr:last-child>td:nth-child(5) {
+    border-bottom: 2px solid #3367c6;
+}
+
+.single-wrapper .inner-wrap .pricing-page-wrap .pricing-page-inner-wrap .table-product-variation tr>td:nth-child(2):not(:first-child) {
+    border-left: 2px solid #2dbb4d;
+    border-right: 2px solid #2dbb4d;
+}
+
+.single-wrapper .inner-wrap .pricing-page-wrap .pricing-page-inner-wrap .table-product-variation tr:last-child>td:nth-child(2) {
+    border-bottom: 2px solid #2dbb4d;
+}
+
+.table-product-variation tr>td:first-child {
+    vertical-align: center;
+    min-width: 150px;
+    max-width: 150px;
+    font-weight: 600 !important;
+    font-size: 17 !important;
+    letter-spacing: .05em;
+}

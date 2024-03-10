@@ -1,0 +1,24 @@
+{
+  "year": "Anno del Veicolo",
+  "make": "Marca del Veicolo",
+  "model": "Modello del Veicolo",
+  "body": "Carrozzeria del Veicolo",
+  "search": "ricerca",
+  "search_vehicle": "RICERCA VEICOLO",
+  "select": "Seleziona",
+
+  "loading": "Caricamento....",
+
+  "back": "Di ritorno",
+
+  "car-covers": "Teloni per Auto",
+  "truck-covers": "Teloni per Pick-up",
+  "van-covers": "Teloni per Minivan",
+  "suv-covers": "Teloni per SUV",
+  "search_text": "RICERCA",
+  "vehicle": "VEICOLO",
+
+  "select_body": "Seleziona il corpo qui sotto",
+
+  "There has been an error.": "C'e 'stato un errore."
+}

@@ -1,0 +1,18 @@
+{
+  "home": "Startseite",
+  "account": "Konto",
+  "login": "Anmelden",
+  "account_login": "Anmeldung",
+  "new_customer": "Ich habe noch kein Konto",
+  "register_account": "Neues Konto anlegen",
+  "login_header": "Nach dem Anlegen eines Kontos erfolgen zukünftige Bestellungen schneller, der Auftragsstatus kann nachverfolgt, bisherige Bestellungen angesehen, sowie persönliche Daten bearbeitet werden.",
+  "continue": "Weiter",
+  "returning_customer": "Ich bin bereits Kunde",
+  "iamareturning_customer": "Ich bin bereits Kunde",
+  "email": "E-Mail-Adresse",
+  "pwd": "Passwort",
+  "forgotten_password": "Passwort vergessen",
+  "login2": "Anmelden",
+
+  "There has been an error.": "Es ist ein Fehler aufgetreten."
+}

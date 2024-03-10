@@ -1,0 +1,39 @@
+{
+  "Covers": "Couvertures",
+  "cover for": "couvrir pour",
+  "Bestseller": "Best-seller",
+  "regular_price": "Prix régulier",
+  "you_save": "Vous économisez",
+  "Price": "Prix",
+  "view_details": "Voir details",
+  "addtocart": "Ajouter au panier",
+
+  "type": "Type",
+  "Warranty": "garantie",
+  "breathable": "Respirant",
+  "layers": "Couches",
+  "material": "Matériau",
+  "soft_fleece": "Molleton doux",
+  "water": "Eau",
+  "snow": "Neige",
+  "uv_protection": "Protection contre les UV",
+  "dirt_dust_protection": "Protection contre la saleté et la poussière",
+  "hail": "Grêle",
+
+  "free_Shipping": "Expédition gratuite",
+  "instock": "En stock",
+  "shipssamebusinessday": "Expédié le même jour ouvrable",
+  "guaranteedfit": "Ajustement garanti",
+
+  "best_seller": "Meilleure vente",
+  "most_popular": "Les plus populaires",
+
+  "for": "pour",
+
+  "browser_option": "Parcourir d'autres options",
+  "campare_product_heading": "Comparer avec d'autres variantes de produits",
+
+  "alert_msg": "Veuillez saisir votre véhicule dans la boîte de recherche ci-dessus pour vous assurer que nous avons la housse appropriée pour votre véhicule.",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

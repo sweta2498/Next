@@ -1,0 +1,85 @@
+{
+  "SHOPPING CART": "PANIER ",
+  "REVIEW YOUR SHOPPING CART": "CONSULTEZ VOTRE PANIER",
+
+  "image": "image",
+  "product Name": "NOM",
+  "Model": "Modèle",
+  "Quantity": "QUANTITÉ",
+  "Unit price": "PRIX UNITAIRE",
+  "Total": "Total",
+
+  "Year": "Année",
+  "Make": "Marque",
+  "Body": "Carrosserie",
+
+  "enter_coupon": "Entrer votre coupon ici :",
+  "Apply": "Appliquer",
+
+  "free": "GRATUIT",
+
+  "Choose Your Guaranteed Delivery Date": "Choisissez votre date de livraison garantie",
+  "We Guarantee Products to be Delivered On:": "Nous garantissons que les produits seront livrés le :",
+  "Note": "Des frais d'expédition supplémentaires de 45 € peuvent s'appliquer si FedEx ou UPS détermine que votre adresse se trouve dans une région éloignée du pays. Veuillez vous attendre à un léger retard dans votre date de livraison si votre adresse est réputée être dans une zone rurale/éloignée de la France.",
+
+  "Cart": "CHARIOT",
+  "Totals": "TOTAUX",
+  "Sub-total": "Sous-total",
+  "delivery_date": "La date de livraison",
+  "coupon": "Coupon",
+  "continue_shopping": "Continuez votre shopping",
+  "checkout": "Commander",
+
+  "home": "Accueil",
+  "shopping_cart": "Panier",
+  "shopping_cart_empty": "Votre panier est vide !",
+
+  "Sunday": "Dimanche",
+  "Monday": "Lundi",
+  "Tuesday": "Mardi",
+  "Wednesday": "Mercredi",
+  "Thursday": "Jeudi",
+  "Friday": "Vendredi",
+  "Saturday": "Samedi",
+
+  "text_short_sunday": "Dimanche",
+  "text_short_monday": "Lundi",
+  "text_short_tuesday": "Mardi",
+  "text_short_wednesday": "Mercredi",
+  "text_short_thursday": "Jeudi",
+  "text_short_friday": "Vendredi",
+  "text_short_saturday": "Samedi",
+
+  "January": "Janvier",
+  "February": "Février",
+  "March": "Mars",
+  "April": "Avril",
+  "May": "Mai",
+  "June": "Juin",
+  "July": "Juillet",
+  "August": "Août",
+  "September": "Septembre",
+  "October": "Octobre",
+  "November": "Novembre",
+  "December": "Décembre",
+
+  "text_short_january": "Jan",
+  "text_short_february": "Fév",
+  "text_short_march": "Mar",
+  "text_short_april": "Avr",
+  "text_short_may": "Mai",
+  "text_short_june": "Juin",
+  "text_short_july": "Juil",
+  "text_short_august": "Août",
+  "text_short_september": "Sep",
+  "text_short_october": "Oct",
+  "text_short_november": "Nov",
+  "text_short_december": "Déc",
+
+  "deliverydate_error": "Lectures Sélectionnez la date de livraison.",
+  "coupon_success_message" : "Un coupon a été appliqué avec succès à votre commande.",
+  "coupon_invalid_message" : "Le code de coupon que vous avez entré est invalide ou a expiré.",
+  "coupon_provide_message" : "Veuillez fournir le code du coupon.",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

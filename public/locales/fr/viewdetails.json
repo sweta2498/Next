@@ -1,0 +1,77 @@
+{
+  "home": "Accueil",
+  "image": "https://d68my205fyswa.cloudfront.net/ccf-static-5vowu7p8kuts75c2podstmjlw0s0vo5mlgnecl67uvwlv7vfquymjw(1).png",
+  "email": "Enter email address here to save your cart (optional):",
+  "email2": "Email Address (optional)",
+
+  "Description": "Description",
+  "FAQs": "Foire aux questions",
+  "Warranty": "Warranty",
+  "Shipping": "Expédition",
+  "CustomerReviews": "Avis des clients",
+  "ProductReviews": "Product Reviews",
+
+  "regular_price": "Prix régulier",
+  "you_save": "Vous économisez",
+  "Price": "Prix",
+  "view_details": "Voir details",
+  "addtocart": "Ajouter au panier",
+
+  "order_next": "Commandez dans le prochain",
+  "hr": "h",
+  "min": "min ",
+  "order_delivery": "et obtenez une livraison gratuite garantie par",
+
+  "QTY": "QTE",
+  "morethanavailable": "Plus de 100 disponibles",
+
+  "free_Shipping": "Expédition gratuite",
+  "instock": "En stock",
+  "shipssamebusinessday": "Expédié le même jour ouvrable",
+  "guaranteedfit": "Ajustement garanti",
+
+  "Sunday": "Dimanche",
+  "Monday": "Lundi",
+  "Tuesday": "Mardi",
+  "Wednesday": "Mercredi",
+  "Thursday": "Jeudi",
+  "Friday": "Vendredi",
+  "Saturday": "Samedi",
+
+  "January": "Janvier",
+  "February": "Février",
+  "March": "Mars",
+  "April": "Avril",
+  "May": "Mai",
+  "June": "Juin",
+  "July": "Juillet",
+  "August": "Août",
+  "September": "Septembre",
+  "October": "Octobre",
+  "November": "Novembre",
+  "December": "Décembre",
+
+  "protects_against": "Protège contre",
+  "rain": "PLUIE",
+  "uv_sunlight": "LUMIÈRE UV",
+  "mold": "MOLD",
+  "mildew": "MILDEW",
+  "rust": "ROUILLE",
+  "bird_droppings": "GOUTTES D`OISEAUX",
+  "acid_rain": "PLUIE ACIDE",
+  "tree_sap": "SAP ARBRE",
+  "dust": "POUSSIÈRE",
+  "dirt" : "DIRT",
+  "droppings" : "DROPPINGS",
+  
+  "for": "pour",
+
+  "shipping_details" : "Chez Voiturehousses.com, la livraison standard est GRATUITE pour toutes les commandes. C'est la promesse que nous vous faisons. Nous expédions également toutes les commandes le jour même, à condition qu'elles soient passées avant 17 heures. Nous proposons des options accélérées pour ceux qui ont besoin de leurs housses plus rapidement. Veuillez prévoir 24 heures pour que les numéros de suivi vous soient envoyés.",
+  "online_sale" : "Vente en ligne",
+
+  "Type" : "Type",
+  "Layers" : "Couches",
+  "Material" : "Matériau",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

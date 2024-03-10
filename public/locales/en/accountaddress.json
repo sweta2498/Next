@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "addressbook": "Address Book",
+  "addressbook_entry": "Address Book Entries",
+  "edit": "Edit",
+  "delete": "Delete",
+  "back": "Back",
+  "new_address": "New Address"
+}

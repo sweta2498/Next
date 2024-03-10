@@ -1,0 +1,11 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "forgotten_password": "Password Dimenticata",
+  "forgot_Your_password": "Hai dimenticato la tua Password??",
+  "forgot_msg": "Inserisci l'e-mail associata al tuo account. Invia il form per ricevere la tua password tramite e-mail.",
+  "your_email_address": "Il Tuo Indirizzo E-Mail",
+  "email": "Indirizzo E-mail",
+  "back": "Indietro",
+  "continue": "Continua"
+}

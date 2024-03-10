@@ -1,0 +1,16 @@
+{
+    "for" : "per",
+    "upload_message" : "Si prega di caricare un'immagine del prodotto qui sotto.",
+    "pending_message" : "La tua immagine è stata caricata ed è in attesa di approvazione da parte del nostro team.",
+    "success_message" : "La tua immagine è stata approvata e un'e-mail con il codice coupon è stata inviata al tuo indirizzo e-mail.",
+    "error_message" : "Carica l'immagine del tuo prodotto.",
+    "product_name" : "nome del prodotto",
+    "upload_image" : "CARICA IMMAGINE",
+    "file_accepted" : "File accettato",
+    "feedback_comments" : "RISPOSTE/COMMENTI",
+    "submit" : "Invia",
+    "upload_logs" : "Carica registri",
+    "no_logs_found" : "Nessun log trovato..",
+
+    "There has been an error.": "C'e 'stato un errore."
+}

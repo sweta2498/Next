@@ -1,0 +1,41 @@
+{
+  "returnpolicy": "Rückgaberecht",
+  "return_form": "Please complete the form below to request an RMA number.",
+  "orderinfo": "Bestellinformationen",
+  "firstname": " Vorname",
+  "lastname": "Nachname",
+  "telephone": "Telefon",
+  "email": "E-Mail",
+  "orderid": "Auftragsnummer",
+  "orderdate": "Auftragsdatum",
+
+  "e_fname": "Vorname muss zwischen 1 und 32 Zeichen lang sein!",
+  "e_lname": "Nachname muss zwischen 1 und 32 Zeichen lang sein!",
+  "e_telephone": "Die Telefonnummer muss zwischen 3 und 32 Zeichen lang sein!",
+  "e_email": "Die E-Mail-Adresse ist nicht gültig!",
+  "e_orderid": "Auftragsnummer ist ein Pflichtfeld!",
+  "return_error": "Produkte können nur innerhalb einer Frist von 30 Tagen zurückgegeben werden.",
+  "return_note": "Wir erlauben Kunden, ihre Produkte innerhalb von 30 Tagen ab Kaufdatum zurückzugeben. Wenn Sie das Produkt zurückgeben möchten, um es zu ersetzen oder eine volle Rückerstattung zu erhalten, kontaktieren Sie uns einfach und wir werden Ihnen helfen. Sobald wir das Produkt erhalten haben, wird Ihnen der volle Betrag zurückerstattet.",
+
+  "back": "Zurück",
+  "continue": "Weiter",
+  "home": "Startseite",
+
+  "There has been an error.": "Es ist ein Fehler aufgetreten.",
+
+  "Invalid Order ID or email": "Kein Datensatz gefunden: Ungültige Bestell-ID oder E-Mail",
+  "Product Information": "Produktinformation und Retourengrund",
+  "Product Name": "Bezeichnung",
+  "Model": "Modell",
+  "Ordered Quantity": "Bestellte Menge",
+  "Return Quantity": "Rückgabe Menge",
+  "Return/Exchange": "Rückgabe/Umtausch",
+  "Return": "Rückgabe",
+  "Exchange": "Umtausch",
+  "Product is opened": "Produkt ist geöffnet:",
+  "Yes": "Ja",
+  "No": "Nein",
+  "Faulty or other details": "Defekt oder andere Details:",
+  "thanku_msg": "Vielen Dank für die Retourenanforderung. Ihre Anforderung wird an die zuständige Abteilung zur Bearbeitung weitergeleitet.",
+  "thanku_msg2": "Sie werden benachrichtigt, wenn sich der Status der Retoure ändert."
+}

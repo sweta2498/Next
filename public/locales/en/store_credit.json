@@ -1,0 +1,16 @@
+{
+    "for" : "for",
+    "upload_message" : "Please upload a product image below.",
+    "pending_message" : "Your image has been uploaded and is pending approval from our team.",
+    "success_message" : "Your image was approved and an email with coupon code has been sent to your email address.",
+    "error_message" : "Please upload image of your product.",
+    "product_name" : "Product Name",
+    "upload_image" : "UPLOAD IMAGE",
+    "file_accepted" : "File Accepted",
+    "feedback_comments" : "FEEDBACK/COMMENTS",
+    "submit" : "Submit",
+    "upload_logs" : "Upload Logs",
+    "no_logs_found" : "No Logs Found..",
+
+    "There has been an error.": "There has been an error."
+}

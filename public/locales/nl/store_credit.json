@@ -1,0 +1,16 @@
+{
+    "for" : "voor",
+    "upload_message" : "Upload hieronder een productafbeelding.",
+    "pending_message" : "Uw afbeelding is geüpload en wacht op goedkeuring van ons team.",
+    "success_message" : "Je afbeelding is goedgekeurd en er is een e-mail met couponcode naar je e-mailadres gestuurd.",
+    "error_message" : "Upload een afbeelding van uw product.",
+    "product_name" : "productnaam",
+    "upload_image" : "AFBEELDING UPLOADEN",
+    "file_accepted" : "Bestand geaccepteerd",
+    "feedback_comments" : "FEEDBACK/OPMERKINGEN",
+    "submit" : "Indienen",
+    "upload_logs" : "Logboeken uploaden",
+    "no_logs_found" : "Geen logboeken gevonden..",
+
+    "There has been an error.": "Er is een fout opgetreden."
+}

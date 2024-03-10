@@ -1,0 +1,84 @@
+{
+  "SHOPPING CART": "CARRELLO DELLA SPESA",
+  "REVIEW YOUR SHOPPING CART": "RIVEDI IL TUO CARRELLO",
+
+  "image": "IMMAGINE",
+  "product Name": "NOME PRODOTTO",
+  "Model": "Modello",
+  "Quantity": "QUANTITÀ",
+  "Unit price": "PREZZO UNITÀ",
+  "Total": "Totale",
+
+  "Year": "Anno",
+  "Make": "Marca",
+  "Body": "Carrozzeria",
+
+  "Apply": "Applicare",
+  "enter_coupon": "Inserire qui il codice coupon:",
+
+  "free": "GRATUITO",
+
+  "Choose Your Guaranteed Delivery Date": "Scegli la data di consegna garantita:",
+  "We Guarantee Products to be Delivered On:": "Garantiamo che i prodotti saranno consegnati su:",
+
+  "Cart": "CARRELLO",
+  "Totals": "TOTALI",
+  "Sub-total": "Prezzo Imponibile",
+  "delivery_date": "Data di consegna",
+  "coupon": "Coupon",
+  "continue_shopping": "Continua Acquisti",
+  "checkout": "Acquista",
+
+  "home": "Home",
+  "shopping_cart": "Carrello della Spesa",
+  "shopping_cart_empty": "Il carrello è vuoto!",
+
+  "Sunday": "Domenica",
+  "Monday": "Lunedi",
+  "Tuesday": "Martedì",
+  "Wednesday": "Mercoledì",
+  "Thursday": "Giovedì",
+  "Friday": "Venerdì",
+  "Saturday": "Sabato",
+
+  "text_short_sunday": "Domenica",
+  "text_short_monday": "Lunedi",
+  "text_short_tuesday": "Martedì",
+  "text_short_wednesday": "Mercoledì",
+  "text_short_thursday": "Giovedì",
+  "text_short_friday": "Venerdì",
+  "text_short_saturday": "Sabato",
+
+  "January": "Gennaio",
+  "February": "febbraio",
+  "March": "Marzo",
+  "April": "aprile",
+  "May": "Maggio",
+  "June": "Giugno",
+  "July": "Luglio",
+  "August": "agosto",
+  "September": "settembre",
+  "October": "ottobre",
+  "November": "novembre",
+  "December": "Dicembre",
+
+  "text_short_january": "gen",
+  "text_short_february": "febbraio",
+  "text_short_march": "mar",
+  "text_short_april": "aprile",
+  "text_short_may": "Maggio",
+  "text_short_june": "giu",
+  "text_short_july": "lug",
+  "text_short_august": "agosto",
+  "text_short_september": "sett",
+  "text_short_october": "ottobre",
+  "text_short_november": "nov",
+  "text_short_december": "dic",
+
+  "deliverydate_error": "Si prega di selezionare la data di consegna.",
+  "coupon_success_message" : "Un coupon è stato applicato con successo al tuo ordine.",
+  "coupon_invalid_message" : "Il codice coupon inserito non è valido o è scaduto.",
+  "coupon_provide_message" : "Si prega di fornire il codice coupon.",
+
+  "There has been an error.": "C'e 'stato un errore."
+}

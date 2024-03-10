@@ -1,0 +1,17 @@
+{
+    "home":"Home",
+    "account":"Account",
+     "login":"Inloggen",
+     "account_login":"Account inloggen",
+     "new_customer":"Nieuwe klant.",
+     "register_account":"Een account aanmaken",
+     "login_header":"Door een account aan te maken kunt u sneller en makkelijker bestellen. Daarnaast kunt u uw eerdere en huidige bestellingen eenvoudig bekijken.",
+     "continue":"Verder",
+     "returning_customer":"Terugkerende klant.",
+     "iamareturning_customer":"Ik ben een terugkerende klant.",
+     "email":"E-mail adres",
+     "pwd":"Wachtwoord",
+     "forgotten_password":"Wachtwoord vergeten",
+
+     "There has been an error.": "Er is een fout opgetreden."
+}

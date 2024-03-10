@@ -1,0 +1,41 @@
+{
+  "returnpolicy": "Return Policy",
+  "return_form": "Please complete the form below to request an RMA number.",
+  "orderinfo": "Order Information",
+  "firstname": "First Name",
+  "lastname": "Last Name",
+  "telephone": "Telephone",
+  "email": "E-Mail",
+  "orderid": "Order ID",
+  "orderdate": "Order Date",
+
+  "e_fname": "First Name must be between 1 and 32 characters!",
+  "e_lname": "Last Name must be between 1 and 32 characters!",
+  "e_telephone": "Telephone must be between 3 and 32 characters!",
+  "e_email": "E-Mail Address does not appear to be valid!",
+  "e_orderid": "Order ID required!",
+  "return_error": "Products can only be returned within a 30 day period",
+  "return_note": "We allow customers to return their products within a 30 day period from the date of purchase. If you wish to return for replacement or full refund, just contact us and we'll help you. Once we received the product, you will be refunded in full.",
+
+  "back": "Back",
+  "continue": "Continue",
+  "home": "Home",
+
+  "Invalid Order ID or email": "No Record found: Invalid Order ID or email",
+  "Product Information": "Product Information",
+  "Reason for Return": "Reason for Return",
+  "Product Name": "Product Name",
+  "Model": " Model",
+  "Ordered Quantity": "Ordered Quantity",
+  "Return Quantity": "Return Quantity",
+  "Return/Exchange": "Return/Exchange",
+  "Return": "Return",
+  "Exchange": "Exchange",
+  "Product is opened": "Product is opened",
+  "Yes": "Yes",
+  "No": "No",
+  "Faulty or other details": "Faulty or other details",
+
+  "thanku_msg": "Thank you for submitting your return request. Your request has been sent to the relevant department for processing.",
+  "thanku_msg2": "You will be notified via e-mail as to the status of your request."
+}

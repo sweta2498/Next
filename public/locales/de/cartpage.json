@@ -1,0 +1,85 @@
+{
+  "SHOPPING CART": "WARENKORB",
+  "REVIEW YOUR SHOPPING CART": "ÜBERPRÜFEN SIE IHREN WARENKORB",
+
+  "image": "BILD",
+  "product Name": "BEZEICHNUNG",
+  "Model": "Modell",
+  "Quantity": "MENGE",
+  "Unit price": "EINZELPREIS",
+  "Total": "Summe",
+
+  "Year": "Jahr",
+  "Make": "Marke",
+  "Body": "Karosserie",
+
+  "enter_coupon": "Geben Sie Ihren Coupon ein:",
+  "Apply": "ANWENDEN",
+
+  "free": "KOSTENLOS",
+
+  "Choose Your Guaranteed Delivery Date": "Wählen Sie Ihr voraussichtliches Lieferdatum",
+  "We Guarantee Products to be Delivered On:": "Produkte, die voraussichtlich geliefert werden am:",
+  "Note": " Note: An extra Shipping Fee of $30 will be required to the states of Hawaii, Alaska, & Puerto Rico.",
+
+  "Cart": "WARENKORB",
+  "Totals": "GESAMT",
+  "Sub-total": "Zwischensumme",
+  "delivery_date": "Lieferdatum",
+  "coupon": "Aktionsgutschein",
+  "continue_shopping": "Einkauf fortsetzen ",
+  "checkout": "Kasse",
+
+  "home": "Startseite",
+  "shopping_cart": "Warenkorb",
+  "shopping_cart_empty": "Ihr Warenkorb ist leer!",
+
+  "Sunday": "Sonntag",
+  "Monday": "Montag",
+  "Tuesday": "Dienstag",
+  "Wednesday": "Mittwoch",
+  "Thursday": "Donnerstag",
+  "Friday": "Freitag",
+  "Saturday": "Samstag",
+
+  "text_short_sunday": "Sonntag",
+  "text_short_monday": "Montag",
+  "text_short_tuesday": "Dienstag",
+  "text_short_wednesday": "Mittwoch",
+  "text_short_thursday": "Donnerstag",
+  "text_short_friday": "Freitag",
+  "text_short_saturday": "Samstag",
+
+  "January": "Januar",
+  "February": "Februar",
+  "March": "Marsch",
+  "April": "April",
+  "May": "Kann",
+  "June": "Juni",
+  "July": "Juli",
+  "August": "August",
+  "September": "September",
+  "October": "Oktober",
+  "November": "November",
+  "December": "Dezember",
+
+  "text_short_january": "Jan",
+  "text_short_february": "Feb",
+  "text_short_march": "Mar",
+  "text_short_april": "Apr",
+  "text_short_may": "Kann",
+  "text_short_june": "Jun",
+  "text_short_july": "Juli",
+  "text_short_august": "Aug",
+  "text_short_september": "Sep",
+  "text_short_october": "Okt",
+  "text_short_november": "Nov",
+  "text_short_december": "Dez",
+
+  "deliverydate_error": "Bitte wählen Sie das Lieferdatum.",
+  "coupon_success_message" : "Ein Gutschein wurde erfolgreich auf Ihre Bestellung angewendet.",
+  "coupon_invalid_message" : "Der eingegebene Gutscheincode ist ungültig oder abgelaufen.",
+  "coupon_provide_message" : "Bitte geben Sie den Gutscheincode ein.",
+
+  "There has been an error.": "Es ist ein Fehler aufgetreten."
+}

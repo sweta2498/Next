@@ -1,0 +1,25 @@
+.navbar-style {
+    background-color: #fff;
+    padding: 0;
+    border: 1px solid #cecece;
+}
+
+.banner-wrap {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+.navbar-collapse-style {
+    display: flex;
+}
+
+.navbar-style .navbar-collapse-style {
+    max-height: 300px;
+    overflow: auto;
+}
+
+.navbar-style .navbar-collapse-style li {
+    text-align: center;
+    border-right: 1px solid #cecece;
+}

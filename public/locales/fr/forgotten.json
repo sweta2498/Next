@@ -1,0 +1,13 @@
+{
+  "home": "Home",
+  "account": "Compte",
+  "forgotten_password": "Mot de passe oublié",
+  "forgot_Your_password": "Vous avez oublié votre mot de passe ?",
+  "forgot_msg": "Entrez l’adresse courriel associée à votre compte. Cliquez sur 'Continuer' afin que votre mot de passe vous soit envoyé.",
+  "your_email_address": "Votre adresse courriel",
+  "email": "Adresse courriel",
+  "back": "Retour",
+  "continue": "Continuer",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

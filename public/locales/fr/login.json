@@ -1,0 +1,18 @@
+{
+  "home": "Accueil",
+  "account": "Client",
+  "login": "Inloggen",
+  "account_login": "Se connecter au compte",
+  "new_customer": "Nouveau client",
+  "register_account": "Inscription",
+  "login_header": "En créant un compte vous allez pouvoir commander plus facilement et plus vite, être au courant de l’état de vos commandes, et garder une trace de vos commandes précédentes.",
+  "continue": "Continuer",
+  "returning_customer": "Identification client",
+  "iamareturning_customer": "Je suis déjà client.",
+  "email": "Adresse courriel",
+  "pwd": "Mot de passe",
+  "forgotten_password": "Mot de passe oublié",
+  "login2": "Se connecter",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

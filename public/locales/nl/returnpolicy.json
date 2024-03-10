@@ -1,0 +1,40 @@
+{
+  "returnpolicy": "Retouraanvraag",
+  "orderinfo": "Uw gegevens",
+  "firstname": "Voornaam",
+  "lastname": "Achternaam",
+  "telephone": " Telefoon",
+  "email": "E-mail adres",
+  "orderid": "Bestelnummer",
+  "orderdate": "Besteldatum",
+
+  "e_fname": "Voornaam dient tussen de 1 en 32 tekens lang te zijn!",
+  "e_lname": "Achternaam dient tussen de 1 en 32 tekens lang te zijn!",
+  "e_telephone": "Telefoon dient tussen de 3 en 32 tekens lang te zijn!",
+  "e_email": "E-mail adres lijkt ongeldig!",
+  "e_orderid": "Bestelnummer verplicht!",
+  "return_error": "Producten kunnen alleen binnen een periode van 30 dagen worden geretourneerd",
+  "return_note": "Wij staan klanten toe om hun producten binnen een periode van 30 dagen vanaf de datum van aankoop terug te sturen. Als u wenst terug te keren voor vervanging of volledige terugbetaling, neem dan contact met ons op en wij zullen u helpen. Zodra wij het product hebben ontvangen, wordt u volledig terugbetaald.",
+
+  "back": "Terug",
+  "continue": "Verder",
+  "home": "Home",
+
+  "There has been an error.": "Er is een fout opgetreden.",
+
+  "Invalid Order ID or email": "Geen record gevonden: ongeldige bestellings-ID of e-mail",
+  "Product Information": "Product informatie &amp; Reden van retour",
+  "Product Name": "Product",
+  "Model": "Model ",
+  "Ordered Quantity": "Bestelde Aantal",
+  "Return Quantity": "Retour Aantal",
+  "Return/Exchange": "Retourneren/ruilen",
+  "Return": "Retourneren",
+  "Exchange": "Ruilen",
+  "Product is opened": "Product is geopend:",
+  "Yes": "Ja",
+  "No": "Nee",
+  "Faulty or other details": "Fout(en) of andere opmerkingen:",
+  "thanku_msg": "Uw retouraanvraag is verstuurd!",
+  "thanku_msg2": "U krijgt bericht wanneer deze in behandeling is genomen met daarbij eventuele vervolginstructies."
+}

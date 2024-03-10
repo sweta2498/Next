@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "my_account": "My Account",
+  "edit_info": "Edit your account information",
+  "change_pwd": "Change your password",
+  "modify_email_address": "Modify your address book entries",
+  "modify_wistlist": "Modify your wish list",
+  "my_orders": "My Orders",
+  "view_history": "View your order history",
+  "download": "Downloads",
+  "reward_point": "Your Reward Points",
+  "view_return_request": "View your return requests",
+  "transction": "Your Transactions",
+  "recurring_payment": "Recurring payments",
+  "newsletter": "Newsletter",
+  "subscribe": "Subscribe / unsubscribe to newsletter"
+}

@@ -1,0 +1,22 @@
+{
+  "e_mail": "E-mail",
+  "home": "Home",
+  "e_name": "Il Nome deve essere tra 3 e 32 caratteri!",
+  "e_phone": "",
+  "e_email": "L'indirizzo E-Mail non sembra valido!",
+  "e_message": "La richiesta deve essere lunga dai 10 ai 3000 caratteri!",
+  "contact_us": "Contattaci",
+  "contact_describtion_1": "Noi vogliamo stare in contatto con voi.",
+  "contact_describtion_2": "è qui per aiutarvi in qualsiasi maniera noi possiamo. Se avete domande riguardanti i nostri prodotti o servizi, non esitate a contattarci.",
+  "form_header": "Completa gli spazi sottostanti per mandarci una mail.",
+  "placeholder_name": "Enter Nome:",
+  "placeholder_email": "Indirizzo E-Mail:",
+  "placeholder_phone": "Numero di telefono:",
+  "enter_name": "Nome:",
+  "enter_email": "Indirizzo E-Mail:",
+  "enter_phone": "Numero di telefono:",
+  "enter_message": "Richiesta:",
+  "send": "Envoyez",
+
+  "There has been an error.": "C'e 'stato un errore."
+}

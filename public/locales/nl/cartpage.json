@@ -1,0 +1,84 @@
+{
+  "SHOPPING CART": "WINKELWAGEN",
+  "REVIEW YOUR SHOPPING CART": "CONTROLEER UW WINKELWAGEN",
+
+  "image": "AFBEELDING",
+  "product Name": "PRODUCT",
+  "Model": "Model",
+  "Quantity": "AANTAL",
+  "Unit price": "PRIJS",
+  "Total": "Totaal",
+
+  "Year": "Jaar",
+  "Make": "Merk",
+  "Body": "Carrosserie",
+
+  "Apply": "Toepassen",
+  "enter_coupon": "Voer de code van uw kortingsbon in:",
+
+  "free": "GRATIS",
+
+  "Choose Your Guaranteed Delivery Date": "Kies uw geschatte leverdatum:",
+  "We Guarantee Products to be Delivered On:": "Producten die naar verwachting worden geleverd op: ",
+
+  "Cart": "WINKELWAGEN",
+  "Totals": "TOTALEN",
+  "Sub-total": "Subtotaal",
+  "delivery_date": "Bezorgdatum",
+  "coupon": "Kortingsbon",
+  "continue_shopping": "Verder winkelen",
+  "checkout": "Afrekenen",
+
+  "home": "Home",
+  "shopping_cart": "Winkelwagen",
+  "shopping_cart_empty": "Uw winkelwagen is leeg!",
+
+  "Sunday": "Zondag",
+  "Monday": "Maandag",
+  "Tuesday": "Dinsdag",
+  "Wednesday": "Woensdag",
+  "Thursday": "Donderdag",
+  "Friday": "Vrijdag",
+  "Saturday": "Zaterdag",
+
+  "text_short_sunday": "Zondag",
+  "text_short_monday": "Maandag",
+  "text_short_tuesday": "Dinsdag",
+  "text_short_wednesday": "Woensdag",
+  "text_short_thursday": "Donderdag",
+  "text_short_friday": "Vrijdag",
+  "text_short_saturday": "Zaterdag",
+
+  "January": "Januari",
+  "February": "Februari",
+  "March": "Maart",
+  "April": "April",
+  "May": "Mei",
+  "June": "Juni",
+  "July": "Juli",
+  "August": "Augustus",
+  "September": "September",
+  "October": "Oktober",
+  "November": "November",
+  "December": "December",
+
+  "text_short_january": "Jan",
+  "text_short_february": "Feb",
+  "text_short_march": "Mar",
+  "text_short_april": "Apr",
+  "text_short_may": "Mei",
+  "text_short_june": "Juni",
+  "text_short_july": "Jul",
+  "text_short_august": "Aug",
+  "text_short_september": "Sep",
+  "text_short_october": "Okt",
+  "text_short_november": "Nov",
+  "text_short_december": "Dec",
+
+  "deliverydate_error": "Selecteer de leveringsdatum.",
+  "coupon_success_message" : "Een coupon is succesvol toegepast op uw bestelling.",
+  "coupon_invalid_message" : "De couponcode die je hebt ingevoerd is ongeldig of verlopen.",
+  "coupon_provide_message" : "Geef de couponcode op.",
+
+  "There has been an error.": "Er is een fout opgetreden."
+}

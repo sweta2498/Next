@@ -1,0 +1,31 @@
+.page-banner-cart {
+    background-color: #94b361;
+    background-size: cover !important;
+    background-position: center !important;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    padding: 10px 5px;
+}
+
+.page-banner-cart h1 {
+    margin-bottom: 0;
+}
+
+.page-banner-cart .entry-content {
+    text-align: center;
+    text-shadow: 0 1px 1px #4a4949;
+    text-transform: uppercase;
+}
+
+.page-banner-cart .entry-content .page-title {
+    color: #fff;
+    font-size: 2rem;
+}
+
+.page-banner-cart .entry-content .description {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    color: #fff;
+}

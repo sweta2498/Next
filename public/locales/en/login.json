@@ -1,0 +1,17 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "login": "Login",
+  "account_login": "Account Login",
+  "new_customer": "New Customer",
+  "register_account": "Register Account",
+  "login_header": "By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.",
+  "continue": "Continue",
+  "returning_customer": "Returning Customer",
+  "iamareturning_customer": "I am a returning customer",
+  "email": "E-Mail Address",
+  "pwd": "Password",
+  "forgotten_password": "Forgotten Password",
+
+  "There has been an error.": "There has been an error."
+}

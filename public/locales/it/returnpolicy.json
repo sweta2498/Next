@@ -1,0 +1,40 @@
+{
+  "returnpolicy": "Resi Prodotti",
+  "orderinfo": "Informazioni ordine",
+  "firstname": "Nome",
+  "lastname": "Cognome",
+  "telephone": "Telefono",
+  "email": "E-Mail",
+  "orderid": "ID ordine",
+  "orderdate": "Data dell'ordine",
+
+  "e_fname": "Il Nome deve essere tra 1 e 32 caratteri!",
+  "e_lname": "Il Cognome deve essere tra 1 e 32 caratteri!",
+  "e_telephone": "Il Telefono deve essere tra 1 e 32 caratteri!",
+  "e_email": "L'indirizzo E-Mail non sembra valido!",
+  "e_orderid": "ID ordine obbligatorio!",
+  "return_error": "I prodotti possono essere restituiti entro 30 giorni.",
+  "return_note": "Noi consentiamo ai nostri clienti di restituire i loro prodotti entro 30 giorni dalla data dell’acquisto. Se vuoi restituire il tuo prodotto e sostituirlo o ricevere il rimborso totale, ti basterà contattarci e ti aiuteremo. Una volta ricevuto il prodotto, riceverai il rimborso.",
+
+  "back": "Indietro",
+  "continue": "Continua",
+  "home": "Home",
+
+  "There has been an error.": "C'e 'stato un errore.",
+
+  "Invalid Order ID or email": "Nessun record trovato: ID ordine o e-mail non validi",
+  "Product Information": "Informazioni Prodotto e motivo della Restituzione",
+  "Product Name": "Nome Prodotto",
+  "Model": "Modello",
+  "Ordered Quantity": "Quantità ordinata",
+  "Return Quantity": "Quantità di reso",
+  "Return/Exchange": "Reso/Scambio",
+  "Return": "Reso ",
+  "Exchange": "sCambio",
+  "Product is opened": "Il prodotto è aperto:",
+  "Yes": "Si",
+  "No": "No",
+  "Faulty or other details": "Difetti o altri dettagli:",
+  "thanku_msg": "La tua richiesta di reso è stata correttamente inviata al titolare del negozio!",
+  "thanku_msg2": "Sarai ricontattato con le istruzioni."
+}

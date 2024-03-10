@@ -1,0 +1,41 @@
+{
+  "returnpolicy": "Vos retours produits",
+  "return_form": "Please complete the form below to request an RMA number.",
+  "orderinfo": "Information commande",
+  "firstname": "Prénom",
+  "lastname": "Nom",
+  "telephone": " Téléphone",
+  "email": "Courriel",
+  "orderid": "Commande N°",
+  "orderdate": "Date de commande",
+
+  "e_fname": "Le Prénom doit être composé de 1 à 32 caractères !",
+  "e_lname": "Le Nom doit être composé de 1 à 32 caractères !",
+  "e_telephone": "Le Téléphone doit êê composé de 3 à 32 caractères !",
+  "e_email": "L’adresse courriel ne semble pas valide !",
+  "e_orderid": "Le numéro de commande est requis !",
+  "return_error": "Les produits ne peuvent être retournés que dans un délai de 30 jours.",
+  "return_note": "Nous permettons aux clients de retourner leurs produits dans un délai de 30 jours à compter de la date d'achat.. Si vous souhaitez retourner le produit pour un remplacement ou un remboursement complet, il vous suffit de nous contacter et nous vous aiderons. Dès que nous aurons reçu le produit, vous serez remboursé intégralement.",
+
+  "back": "Retour",
+  "continue": "Continuer",
+  "home": "Accueil",
+
+  "There has been an error.": "Il y a eu une erreur.",
+
+  "Invalid Order ID or email": "Aucun enregistrement trouvé : ID de commande ou e-mail non valide",
+  "Product Information": "Information produit & raison du retour",
+  "Product Name": "Nom du produit",
+  "Model": "Modèle",
+  "Ordered Quantity": "Quantité commandée",
+  "Return Quantity": "Quantité de retour",
+  "Return/Exchange": "Retour/Échange ",
+  "Return": "Retour",
+  "Exchange": "Échange ",
+  "Product is opened": "Le dossier du retour produit est ouvert :",
+  "Yes": "Oui",
+  "No": "Non",
+  "Faulty or other details": "Défectueux ou autres détails :",
+  "thanku_msg": "Nous vous remercions de l’envoi du formulaire de retour de marchandise. celui-ci a été transmis au service compétent en vue de son traitement.",
+  "thanku_msg2": "Vous serez avisé par courriel de l’état de votre demande."
+}

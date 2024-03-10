@@ -1,0 +1,23 @@
+{
+  "e_mail" : "Courrier électronique:",
+  "home" : "Accueil",
+  "e_name": "Le Nom doit être composé de 3 à 32 caractères !",
+  "e_phone": "",
+  "e_email": "L’adresse courriel ne semble pas valide !",
+  "e_message": "La Demande de renseignements doit être composé de 10 à 3000 caractères !",
+  "contact_us": "Nous contacter",
+  "contact_describtion_1": "Nous souhaitons avoir de vos nouvelles.",
+  "contact_describtion_2": "est là pour vous aider de toutes les manières possibles. Si vous avez des questions sur nos produits ou services, n'hésitez pas à nous appeler.",
+  "form_header": "Remplir le formulaire ci-dessous pour nous envoyer un courriel",
+  "placeholder_name" : "Enter Nom :",
+  "placeholder_email" : "Adresse courriel :",
+  "placeholder_phone" : "Numéro de téléphone :",
+  "enter_name": "Nom :",
+  "enter_email": "Adresse courriel :",
+  "enter_phone": "Numéro de téléphone :",
+  "enter_message": "Demande de renseignement :",
+  "send": "Envoyez",
+  "address":"Courrier électronique",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

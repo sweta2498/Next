@@ -1,0 +1,83 @@
+{
+  "checkout": "Commander",
+  "secure Checkout process": "PROCESSUS DE CAISSE SÉCURISÉ",
+  "shipping": "Adresse de livraison",
+  "Company Name": "Société",
+  "optional" : "OPZIONALE",
+  "First Name": "Prénom",
+  "Last Name": "Nom",
+  "Address": "Adresse",
+  "addressline1" : "Adresse",
+  "addressline2" : "Complément d’adresse",
+
+  "ship_msg":"Nous ne livrons pas aux boîtes postales.",
+
+  "City": "Ville",
+  "State": "Département",
+  "Select state": "Département",
+  "Postal code": "Code Postal",
+  "Country code": "Pays",
+  "Select Country": "--- Veuillez choisir ---",
+  "Phone": "Téléphone",
+  "Email": "Courriel",
+  "Billing": "Adresse de Facturation",
+
+  "copy_btn": "Copie à l'adresse de facturation",
+
+  "cart_totals": "CHARIOT TOTAUX",
+
+  "Payment": "MODE DE PAIEMENT",
+  "method": "",
+  "Total": "Le total",
+
+  "CreditCard": "Credit Card",
+  "Paypal": "PayPal",
+  "Affirm": "Affirm",
+  "Check/PO": "Check/PO",
+
+  "card_name": "Nom du titulaire",
+  "card_number": "Numéro de carte",
+  "card_date": "Date d'expiration de la carte",
+
+  "month": "Mois",
+  "year": "Année",
+  "what_cvv": "[Qu'est-ce que le CVV?]",
+
+  "cvv_code": "Code CVV",
+  "close": "Proche",
+  "card_cvv": "Valeur de vérification de la carte (CVV)",
+  "accept_condtion": "J'ai lu et j'accepte toutes les",
+  "terms_condition": "Termes et conditions",
+  "submit_order": "Soumettre",
+
+  "paypal_msg": "Vous serez redirigé sur PayPal pour finaliser le paiement.",
+  "affirm_msg": "You will be redirected on Affirm to complete the payment.",
+  "check/po_msg": "Your products will not be shipped until a check is received or we receive your purchase order.",
+
+  "e_shipping_company_name": "THIS FIELD IS REQUIRED.",
+  "e_shipping_first_name": "THIS FIELD IS REQUIRED.",
+  "e_shipping_last_name": "THIS FIELD IS REQUIRED.",
+  "e_shipping_address": "THIS FIELD IS REQUIRED.",
+  "e_shipping_postcode": "THIS FIELD IS REQUIRED.",
+  "e_shipping_email": "THIS FIELD IS REQUIRED.",
+  "e_shipping_phone": "THIS FIELD IS REQUIRED.",
+  "e_shipping_cityCode": "THIS FIELD IS REQUIRED.",
+  "e_billing_company_name": "THIS FIELD IS REQUIRED.",
+  "e_billing_last_name": "THIS FIELD IS REQUIRED.",
+  "e_billing_first_name": "THIS FIELD IS REQUIRED.",
+  "e_billing_email": "THIS FIELD IS REQUIRED.",
+  "e_billing_one": "THIS FIELD IS REQUIRED.",
+  "e_billing_city_code": "THIS FIELD IS REQUIRED.",
+  "e_billing_phone": "THIS FIELD IS REQUIRED.",
+  "e_billing_postal_code": "THIS FIELD IS REQUIRED.",
+  "e_billing_country_code": "THIS FIELD IS REQUIRED.",
+
+  "e_card_holder_name": "THIS FIELD IS REQUIRED.",
+  "e_card_no": "THIS FIELD IS REQUIRED.",
+  "e_expiry_month": "THIS FIELD IS REQUIRED.",
+  "e_expiry_year": "THIS FIELD IS REQUIRED.",
+  "e_cvv": "THIS FIELD IS REQUIRED.",
+  "product_protection_image" : "cu-20230309-uwwJKeKdlt21121213.png",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

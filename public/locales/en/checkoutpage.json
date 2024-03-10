@@ -1,0 +1,83 @@
+{
+  "checkout": "Checkout",
+  "secure Checkout process": "secure Checkout process",
+  "shipping": "shipping",
+  "Company Name": "Company Name",
+  "optional": "Optional",
+  "First Name": "First Name",
+  "Last Name": "Last Name",
+  "Address": "Address",
+  "addressline1": "Address Line 1",
+  "addressline2": "Address Line 2",
+
+  "ship_msg": "We do not ship to PO Boxes.",
+
+  "City": "City",
+  "State": "state",
+  "Select state": "State",
+  "Postal code": "Postal Code",
+  "Country code": "Country",
+  "Select Country": "Select Country",
+  "Phone": "Phone",
+  "Email": "E-Mail",
+  "Billing": "Billing",
+
+  "copy_btn": "Copy to Billing Address",
+
+  "cart_totals": "CART TOTALS",
+
+  "Payment": "Payment",
+  "method": "method",
+  "Total": "Total",
+
+  "CreditCard": "Credit Card",
+  "Paypal": "Paypal",
+  "Affirm": "Affirm",
+  "Check/PO": "Check/PO",
+
+  "card_name": "CARD HOLDER NAME",
+  "card_number": "CARD NUMBER",
+  "card_date": "CARD EXPIRATION DATE",
+
+  "month": "Month",
+  "year": "Year",
+  "what_cvv": "[What is CVV?]",
+
+  "cvv_code": "CVV Code",
+  "close": "Close",
+  "card_cvv": "CARD VERIFICATION VALUE (CVV)",
+  "accept_condtion": "I have read and accept all of the",
+  "terms_condition": "Terms and conditions",
+  "submit_order": "Submit Order",
+
+  "paypal_msg": "You will be redirected on PayPal to complete the payment.",
+  "affirm_msg": "You will be redirected on Affirm to complete the payment.",
+  "check/po_msg": "Your products will not be shipped until a check is received or we receive your purchase order.",
+
+  "e_shipping_company_name": "Shipping company name is required!",
+  "e_shipping_first_name": "Shipping frist name required!",
+  "e_shipping_last_name": "Shipping last name required!",
+  "e_shipping_address": "Shipping address is required!",
+  "e_shipping_postcode": "Shipping postlcode is required!",
+  "e_shipping_email": "Shipping email is required!",
+  "e_shipping_phone": "Shipping phone number is required!",
+  "e_shipping_cityCode": "Shipping city is required!",
+  "e_billing_company_name": "Billing company name required!",
+  "e_billing_last_name": "Billing  last name is required!",
+  "e_billing_first_name": "Billing fist name required!",
+  "e_billing_email": "Billing  email is required!",
+  "e_billing_one": "Billing address is required!",
+  "e_billing_city_code": "Billing  city is required!",
+  "e_billing_phone": "Billing  phone is required!",
+  "e_billing_postal_code": "Billing postalcode is required!",
+  "e_billing_country_code": "Billing country is required!",
+
+  "e_card_holder_name": "Card holder name is required!",
+  "e_card_no": "Card Number is required!",
+  "e_expiry_month": "Expire month is required!",
+  "e_expiry_year": "Expire year is required!",
+  "e_cvv": "Cvv is required!",
+  "product_protection_image": "cu-20230309-uwwJKeKdlt21121211.png",
+
+  "There has been an error.": "There has been an error."
+}

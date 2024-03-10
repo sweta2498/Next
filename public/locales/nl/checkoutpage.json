@@ -1,0 +1,83 @@
+{
+  "checkout": "Uitchecken",
+  "secure Checkout process": "VEILIG AFREKENEN PROCES",
+  "shipping": "Aflever Adres",
+  "optional": "OPTIONEEL",
+  "Company Name": "Bedrijf",
+  "First Name": "Voornaam",
+  "Last Name": "Achternaam",
+  "Address": "Adres",
+  "addressline1": "Adres 1",
+  "addressline2": "Adres 2",
+
+  "ship_msg": "Wij verzenden niet naar postbussen.",
+
+  "City": "Woonplaats",
+  "State": "Provincie / Regio",
+  "Select state": "Provincie / Regio",
+  "Postal code": "Postcode",
+  "Country code": "Land",
+  "Select Country": "--- Selecteer ---",
+  "Phone": "Telefoon",
+  "Email": "E-mail adres",
+  "Billing": "factuur adres",
+
+  "copy_btn": "Kopiëren naar factuuradres",
+
+  "cart_totals": "WINKELWAGENTOTALEN",
+
+  "Payment": "Betalingswijze",
+  "method": "",
+  "Total": "Totaal",
+
+  "CreditCard": "Credit Card",
+  "Paypal": "PayPal",
+  "Affirm": "Affirm",
+  "Check/PO": "Check/PO",
+
+  "card_name": "Card Owner",
+  "card_number": "Card Number",
+  "card_date": "Card Expiry Date",
+
+  "month": "Maand",
+  "year": "Jaar",
+  "what_cvv": "[Wat is CVV?]",
+
+  "cvv_code": "CVV-Code",
+  "close": "Dichtbij",
+  "card_cvv": "Card Security Code (CVV2)",
+  "accept_condtion": "Ik heb alle  gelezen en geaccepteerd",
+  "terms_condition": "voorwaarden",
+  "submit_order": "BEVESTIG BESTELLING",
+
+  "paypal_msg": "U wordt doorgestuurd naar PayPal om de betaling af te ronden.",
+  "affirm_msg": "You will be redirected on Affirm to complete the payment.",
+  "check/po_msg": "Your products will not be shipped until a check is received or we receive your purchase order.",
+
+  "e_shipping_company_name": "THIS FIELD IS REQUIRED.",
+  "e_shipping_first_name": "THIS FIELD IS REQUIRED.",
+  "e_shipping_last_name": "THIS FIELD IS REQUIRED.",
+  "e_shipping_address": "THIS FIELD IS REQUIRED.",
+  "e_shipping_postcode": "THIS FIELD IS REQUIRED.",
+  "e_shipping_email": "THIS FIELD IS REQUIRED.",
+  "e_shipping_phone": "THIS FIELD IS REQUIRED.",
+  "e_shipping_cityCode": "THIS FIELD IS REQUIRED.",
+  "e_billing_company_name": "THIS FIELD IS REQUIRED.",
+  "e_billing_last_name": "THIS FIELD IS REQUIRED.",
+  "e_billing_first_name": "THIS FIELD IS REQUIRED.",
+  "e_billing_email": "THIS FIELD IS REQUIRED.",
+  "e_billing_one": "THIS FIELD IS REQUIRED.",
+  "e_billing_city_code": "THIS FIELD IS REQUIRED.",
+  "e_billing_phone": "THIS FIELD IS REQUIRED.",
+  "e_billing_postal_code": "THIS FIELD IS REQUIRED.",
+  "e_billing_country_code": "THIS FIELD IS REQUIRED.",
+
+  "e_card_holder_name": "THIS FIELD IS REQUIRED.",
+  "e_card_no": "THIS FIELD IS REQUIRED.",
+  "e_expiry_month": "THIS FIELD IS REQUIRED.",
+  "e_expiry_year": "THIS FIELD IS REQUIRED.",
+  "e_cvv": "THIS FIELD IS REQUIRED.",
+  "product_protection_image": "cu-20230309-uwwJKeKdlt21121215.png",
+
+  "There has been an error.": "Er is een fout opgetreden."
+}

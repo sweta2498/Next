@@ -1,0 +1,24 @@
+{
+  "year": "Vehicle Year",
+  "make": "Vehicle Make",
+  "model": "Vehicle Model",
+  "body": "Vehicle Body",
+  "search": "Search",
+  "search_vehicle": "Vehicle Search",
+  "select": "Select",
+
+  "loading": "Loading...",
+
+  "back": "Back",
+
+  "car-covers": "Cars",
+  "truck-covers": "Trucks",
+  "van-covers": "Vans",
+  "suv-covers": "SUVs",
+  "search_text": "Search",
+  "vehicle": "Vehicle",
+
+  "select_body": "Please Select Body Below",
+
+  "There has been an error.": "There has been an error."
+}

@@ -1,0 +1,85 @@
+{
+  "SHOPPING CART": "SHOPPING CART",
+  "REVIEW YOUR SHOPPING CART": "REVIEW YOUR SHOPPING CART",
+
+  "image": "image",
+  "product Name": "product Name",
+  "Model": "Model",
+  "Quantity": "Quantity",
+  "Unit price": "Unit price",
+  "Total": "Total",
+
+  "Year": "Year",
+  "Make": "Make",
+  "Body": "Body",
+
+  "Apply": "Apply",
+  "enter_coupon": "Enter your coupon here:",
+
+  "free": "FREE",
+
+  "Choose Your Guaranteed Delivery Date": "Choose Your Guaranteed Delivery Date",
+  "We Guarantee Products to be Delivered On:": "We Guarantee Products to be Delivered On:",
+  "Note": " Note: An extra Shipping Fee of $30 will be required to the states of Hawaii, Alaska, & Puerto Rico.",
+
+  "Cart": "Cart",
+  "Totals": "Totals",
+  "Sub-total": "Sub-total",
+  "delivery_date": "Delivery date",
+  "coupon": "Coupon",
+  "continue_shopping": "Continue Shopping",
+  "checkout": "Checkout",
+
+  "home": "Home",
+  "shopping_cart": "Shopping Cart",
+  "shopping_cart_empty": "Your shopping cart is empty",
+
+  "Sunday": "Sunday",
+  "Monday": "Monday",
+  "Tuesday": "Tuesday",
+  "Wednesday": "Wednesday",
+  "Thursday": "Thursday",
+  "Friday": "Friday",
+  "Saturday": "Saturday",
+
+  "text_short_sunday": "Sun",
+  "text_short_monday": "Mon",
+  "text_short_tuesday": "Tue",
+  "text_short_wednesday": "Wed",
+  "text_short_thursday": "Thur",
+  "text_short_friday": "Fri",
+  "text_short_saturday": "Sat",
+
+  "January": "January",
+  "February": "February",
+  "March": "March",
+  "April": "April",
+  "May": "May",
+  "June": "June",
+  "July": "July",
+  "August": "August",
+  "September": "September",
+  "October": "October",
+  "November": "November",
+  "December": "December",
+
+  "text_short_january": "Jan",
+  "text_short_february": "Feb",
+  "text_short_march": "Mar",
+  "text_short_april": "Apr",
+  "text_short_may": "May",
+  "text_short_june": "Jun",
+  "text_short_july": "Jul",
+  "text_short_august": "Aug",
+  "text_short_september": "Sep",
+  "text_short_october": "Oct",
+  "text_short_november": "Nov",
+  "text_short_december": "Dec",
+
+  "deliverydate_error": "Please Select the Delivery Date.",
+  "coupon_success_message" : "Coupon has successfully been applied to your order.",
+  "coupon_invalid_message" : "The coupon code you entered is invalid or expired.",
+  "coupon_provide_message" : "Please provide the coupon code.",
+
+  "There has been an error.": "There has been an error."
+}

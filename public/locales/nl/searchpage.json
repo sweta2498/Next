@@ -1,0 +1,24 @@
+{
+  "year": "Voertuig Jaar",
+  "make": "Voertuig Merk",
+  "model": "Voertuig Model",
+  "body": "Voertuig Carrosserie",
+  "search": "ZOEK",
+  "search_vehicle": "VOERTUIG ZOEK",
+  "select": "Selecteer",
+
+  "loading": "Bezig met laden..",
+
+  "back": "Rug",
+
+  "car-covers": "Autohoezen",
+  "truck-covers": "Vrachtwagenhoezen",
+  "van-covers": "Bestelwagen Hoezen",
+  "suv-covers": "SUV Hoezen",
+  "search_text": "ZOEK",
+  "vehicle": "VOERTUIG",
+
+  "select_body": "Selecteer hieronder de tekst",
+
+  "There has been an error.": "Er is een fout opgetreden."
+}

@@ -1,0 +1,73 @@
+.StripeElement {
+    width: 70%;
+    float: right;
+    position: relative;
+    top: 50%;
+    transform: perspective(1px) translateY(-50%);
+}
+
+.stripecontainer {
+    align-items: center;
+}
+
+.stripecontainer .stripepayBtn {
+    align-items: center;
+}
+
+@media only screen and (max-width:768px) {
+    .checkOutBox {
+        width: 100%;
+    }
+}
+
+.CheckOutFrom {
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.checkOutBox .CheckOutFrom label .cardElement {
+    border: solid 1px black;
+    height: 35px;
+    width: 500px;
+}
+@media only screen and (max-width:665px) {
+    .checkOutBox .CheckOutFrom label .cardElement {
+        border: solid 1px black;
+        height: 35px;
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width:515px) {
+    .checkOutBox .CheckOutFrom label .cardElement {
+        border: solid 1px black;
+        height: 35px;
+        width: 280px;
+    }
+}
+
+@media only screen and (max-width:420px) {
+    .checkOutBox .CheckOutFrom label .cardElement {
+        border: solid 1px black;
+        height: 35px;
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width:345px) {
+    .checkOutBox .CheckOutFrom label .cardElement {
+        border: solid 1px black;
+        height: 35px;
+        width: 120px;
+    }
+}
+
+.checkOutBox .CheckOutFrom label .cardElement::placeholder {
+    color: brown;
+}
+
+.btn-wrap {
+    text-align: center;
+}

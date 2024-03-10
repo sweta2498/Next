@@ -1,0 +1,13 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "forgotten_password": "Forgotten Password",
+  "forgot_Your_password": "Forgot Your Password?",
+  "forgot_msg": "Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you.",
+  "your_email_address": "Your E-Mail Address",
+  "email": "E-Mail Address",
+  "back": " Back",
+  "continue": "Continue",
+
+  "There has been an error.": "There has been an error."
+}

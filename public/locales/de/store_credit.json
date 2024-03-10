@@ -1,0 +1,14 @@
+{
+    "for" : "für",
+    "upload_message" : "Bitte laden Sie unten ein Produktbild hoch.",
+    "pending_message" : "Ihr Bild wurde hochgeladen und wartet auf die Genehmigung durch unser Team.",
+    "success_message" : "Ihr Bild wurde genehmigt und eine E-Mail mit Gutscheincode wurde an Ihre E-Mail-Adresse gesendet.",
+    "error_message" : "Bitte laden Sie ein Bild Ihres Produkts hoch.",
+    "product_name" : "Produktname",
+    "upload_image" : "BILD HOCHLADEN",
+    "file_accepted" : "Datei akzeptiert",
+    "feedback_comments" : "FEEDBACK/KOMMENTARE",
+    "submit" : "Einreichen",
+    "upload_logs" : "Protokolle hochladen",
+    "no_logs_found" : "Keine Protokolle gefunden.."
+}

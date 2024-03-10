@@ -1,0 +1,13 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "forgotten_password": "Wachtwoord vergeten",
+  "forgot_Your_password": "Wachtwoord vergeten?",
+  "forgot_msg": "Bent u uw wachtwoord vergeten? Vul dan hieronder het e-mail adres in wat aan uw account gekoppeld is. Klik vervolgens op Verder en u ontvangt van ons een nieuw wachtwoord.",
+  "your_email_address": "Uw e-mail adres",
+  "email": "E-mail adres",
+  "back": "Terug",
+  "continue": "Verder",
+
+  "There has been an error.": "Er is een fout opgetreden."
+}

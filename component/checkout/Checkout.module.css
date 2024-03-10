@@ -1,0 +1,224 @@
+.page-banner-checkout {
+    background-color: #424242;
+}
+
+.single-wrapper-glob .information-wrap {
+    color: #666;
+    background: #fff;
+    padding: 50px 60px;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper {
+    max-width: 1060px;
+    margin: 0 auto;
+}
+
+.checkout-banner .page-banner {
+    padding: 10px 5px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+.checkout-banner .page-banner .entry-content {
+    text-align: center;
+    text-shadow: 0 1px 1px #4a4949;
+    text-transform: uppercase;
+}
+
+.checkout-banner .page-banner .entry-content .page-title {
+    color: #fff;
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+.checkout-banner .page-banner .entry-content .description {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.single-wrapper-glob {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .title {
+    background-color: #3f3f41;
+    padding: 10px;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}
+
+.form-control {
+    box-shadow: inset 0px 0px 10px 0px rgb(0 0 0 / 27%)
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside {
+    background-color: #f5f5f5;
+    border: 2px solid #f1f1f1;
+    border-top: none;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+
+/* .single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside .from-row .inputfield input[type="text"] {
+    width: 470px;
+} */
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside .from-row input[type="text"] {
+    width: 230px;
+    box-shadow: inset 0px 0px 10px 0px rgb(0 0 0 / 27%)
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside .from-row select[type="text"] {
+    width: 230px;
+    box-shadow: inset 0px 0px 10px 0px rgb(0 0 0 / 27%)
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside .from-row {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside label {
+    color: #1b65a4;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .title {
+    background-color: #3f3f41;
+    padding: 10px;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .from-inside {
+    background-color: #f5f5f5;
+    border: 2px solid #f1f1f1;
+    border-top: none;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .from-inside .from-row {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .from-inside .from-row input[type="text"] {
+    width: 230px;
+    box-shadow: inset 0px 0px 10px 0px rgb(0 0 0 / 27%)
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .from-inside .from-row select[type="text"] {
+    width: 230px;
+    box-shadow: inset 0px 0px 10px 0px rgb(0 0 0 / 27%)
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .from-inside label {
+    color: #1b65a4;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
+/* payment box */
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 {
+    margin-top: 50px;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 .checkout-content .title {
+    background: #3f3f41;
+    padding: 10px;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 .checkout-content .title .pull-right {
+    float: right;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 .checkout-content .form-inside {
+    background: #f5f5f5;
+    border: 2px solid #f1f1f1;
+    border-top: none;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 .checkout-content .form-inside .inner-wrap {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 .checkout-content .form-inside .inner-wrap .payment-options .form-check:active {
+    background-color: #518dc1;
+}
+
+.single-wrapper-glob .information-wrap .inner-wrapper form .mt-50 .checkout-content .form-inside .inner-wrap .payment-options .form-check {
+    border: 1px solid #d3d3d3;
+    color: #444444;
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+@media only screen and (max-width:992px) {
+    .checkout-banner .page-banner .entry-content .page-title {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .from-inside .from-row input[type="text"] {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .from-inside .from-row {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .form-wrap .title {
+        font-size: 21px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .single-wrapper-glob .information-wrap .inner-wrapper .checkout-content .billaddr .form-wrap .title {
+        font-size: 21px;
+    }
+}
+
+@media only screen and (max-width:668px) {
+    .single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .title {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .single-wrapper-glob .information-wrap .inner-wrapper form .checkout-content .shipaddr .title {
+        font-size: 21px;
+    }
+}

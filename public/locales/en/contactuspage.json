@@ -1,0 +1,22 @@
+{
+  "e_mail": "Email",
+  "home": "Home",
+  "e_name": "The Name field is required.",
+  "e_phone": "The Phone field is required.",
+  "e_email": "The E-mail Address field is required.",
+  "e_message": "The Message field is required.",
+  "contact_us": "Contact Us",
+  "contact_describtion_1": "We want to hear from you.",
+  "contact_describtion_2": "is here to assist you in anyway we can. If you have questions about our products or services, don't hesitate to give us a call.",
+  "form_header": "Fill in the form below to Email us",
+  "placeholder_name": "Enter Name:",
+  "placeholder_email": "Enter email",
+  "placeholder_phone": "Enter Phone",
+  "enter_name": "Enter Name:",
+  "enter_email": "Email Address",
+  "enter_phone": "Phone Number",
+  "enter_message": "Your Message",
+  "send": "Send",
+
+  "There has been an error.": "There has been an error."
+}

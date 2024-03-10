@@ -1,0 +1,24 @@
+{
+  "year": "Année du véhicule",
+  "make": "Marque du véhicule",
+  "model": "Modèle de véhicule",
+  "body": "Carrosserie de véhicule",
+  "search_vehicle": "RECHERCHEDE VÉHICULE",
+  "search": "CHERCHER",
+  "select": "Sélectionnez",
+
+  "loading": "Chargement...",
+
+  "back": "Arrière",
+
+  "car-covers": "Housses de voiture",
+  "suv-covers": "Housses SUV",
+  "truck-covers": "Housses camions",
+  "van-covers": "Housses fourgons",
+  "search_text" : "RECHERCHE DE",
+  "vehicle" : "VÉHICULE",
+
+  "select_body": "Veuillez sélectionner le corps ci-dessous",
+
+  "There has been an error.": "Il y a eu une erreur."
+}

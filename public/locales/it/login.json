@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "account": "Account",
+  "login": "Accesso",
+  "account_login": "Account Login",
+  "new_customer": "Nuovo Cliente.",
+  "register_account": "Registrazione Account",
+  "login_header": "Creando un account potrai effettuare gli acquisti più velocemente, controllare lo stato dei tuoi ordini e avere a disposizione lo storico degli ordini.",
+  "continue": "Continua",
+  "returning_customer": "Già Cliente",
+  "iamareturning_customer": "Sono già un Cliente",
+  "email": "Indirizzo E-Mail:",
+  "pwd": "Password",
+  "forgotten_password": "Password Dimenticata",
+  "login2": "Accesso",
+
+  "There has been an error.": "C'e 'stato un errore."
+}

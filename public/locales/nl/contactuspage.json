@@ -1,0 +1,22 @@
+{
+  "e_mail": "E-mail",
+  "home": "Home",
+  "e_name": "Naam dient tussen de 3 en 32 tekens lang te zijn!",
+  "e_phone": "",
+  "e_email": "Ongeldig e-mail adres!",
+  "e_message": "Vraag of opmerking dient tussen de 10 en 3000 tekens lang te zijn!",
+  "contact_us": "Contacteer Ons",
+  "contact_describtion_1": "We willen van u horen.",
+  "contact_describtion_2": "is hier om u te helpen op elke manier waarop we kunnen. Als u vragen heeft over onze producten of diensten, aarzel dan niet om ons te bellen.",
+  "form_header": "Vul het onderstaande formulier in om ons te e-mailen",
+  "placeholder_name": "Enter Uw naam:",
+  "placeholder_email": "Uw e-mail adres:",
+  "placeholder_phone": "Telefoonnummer:",
+  "enter_name": "Uw naam:",
+  "enter_email": "Uw e-mail adres:",
+  "enter_phone": "Telefoonnummer:",
+  "enter_message": "Uw vraag:",
+  "send": "Stuur",
+
+  "There has been an error.": "Er is een fout opgetreden."
+}
